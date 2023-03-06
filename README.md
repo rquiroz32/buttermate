@@ -7,7 +7,7 @@ This is was an excercise in refactoring code, I've listed the changes I made bel
 
 - Changed all <div> tags to a Nav, Main, Aside, footer, section, tag where applicable
 
-- Repaired the link to the Search Engine Optimization sectio
+- Repaired the link to the Search Engine Optimization section
 
 - Added alt text to all the images 
 
